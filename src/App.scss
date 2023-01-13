@@ -1,0 +1,19 @@
+.app {
+  max-width: 30%;
+  margin: auto;
+  padding: 30px;
+}
+
+.counter-btn,
+.counter-display {
+  width: 100px;
+  padding: 5px;
+  font-size: 22px;
+  font-weight: 700;
+  text-align: center;
+}
+
+.counter-btn {
+  border: 1px solid black;
+  border-radius: 7px;
+}
